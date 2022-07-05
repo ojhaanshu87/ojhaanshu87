@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-This is Anshu Ojha, I am a software developer at [MapleLabs](https://maplelabs.com/) having 8 years of experiance.
+This is Anshu Ojha, I am a software developer at [Parallel Wireless](https://www.parallelwireless.com/) having 10 years of experiance.
 
-- 🔭 I’m currently working on Python, Cloud ecosystem.
+- 🔭 I’m currently working on Python, Teleocom(2G/LTE/3gpp), Cloud ecosystem.
 - 👯 A CS Comrade, code in pixel. You can always find me a sweet spot where Data Driven Development and Core CS concepts meets.
 - 📫 Coding portfolio at [leetcode](https://leetcode.com/anshu492/)
 
